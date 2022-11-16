@@ -1,6 +1,5 @@
-# Audio Engineering Resources
-## ***Table of Contents***
-### Sound
+# ***Table of Contents***
+## Sound
 1. [Basic Audio Recording](/Sound/Basic%20Audio%20Recording/)
      - [Intoduction to Audio and the Industry](/Sound/Basic%20Audio%20Recording/Intro%20to%20Audio%20and%20the%20Industry.md)
      - [Physics of Sound](/Sound/Basic%20Audio%20Recording/Physics%20of%20Sound.md)
@@ -24,4 +23,4 @@
      - [Surround Mixing](/Sound/Advanced%20Audio%20Technologies/Surround%20Mixing.md)
 1. [Live Sound Reinforcement](/Sound/Live%20Sound%20Reinforcement/Live%20Sound%20Reinforcement.md)
 
-### Lighting
+## Lighting
