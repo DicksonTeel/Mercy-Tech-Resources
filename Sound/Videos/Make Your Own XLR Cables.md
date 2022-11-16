@@ -5,4 +5,8 @@
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> -->
 
 
-[![Make Your Own XLR Cables](http://img.youtube.com/vi/Jk1B42c3kNk/0.jpg)](https://youtu.be/Jk1B42c3kNk)
+<!-- [![Make Your Own XLR Cables](http://img.youtube.com/vi/Jk1B42c3kNk/0.jpg)](https://youtu.be/Jk1B42c3kNk) -->
+
+<a href="https://youtu.be/Jk1B42c3kNk" target="_blank">
+<img src="https://img.youtube.com/vi/Jk1B42c3kNk/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="100%" height="92%" /></a>
