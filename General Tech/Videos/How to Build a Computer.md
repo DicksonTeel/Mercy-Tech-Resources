@@ -1,0 +1,1 @@
+[![How to Build a Computer](https://img.youtube.com/vi/BL4DCEp7blY/0.jpg)](https://youtu.be/BL4DCEp7blY)

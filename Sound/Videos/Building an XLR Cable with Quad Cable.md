@@ -1,0 +1,1 @@
+[![Build an XLR Cable with Quad Cable](https://img.youtube.com/vi/Y2UMLV2qCqg/0.jpg)](https://youtu.be/Y2UMLV2qCqg)

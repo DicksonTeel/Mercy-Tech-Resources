@@ -1,0 +1,1 @@
+[![Terminating/Testing Network Cables](https://img.youtube.com/vi/rZKVPuInQ2Y/0.jpg)](https://youtu.be/rZKVPuInQ2Y)

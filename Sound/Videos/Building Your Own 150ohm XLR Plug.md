@@ -1,0 +1,1 @@
+[![Build Your Own 150ohm XLR Plug](https://img.youtube.com/vi/GB3nchthE7M/0.jpg)](https://youtu.be/GB3nchthE7M)

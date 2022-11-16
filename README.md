@@ -1,4 +1,7 @@
 # ***Table of Contents***
+## General Tech
+1. [Videos](/General%20Tech/Videos/)
+
 ## Sound
 1. [Basic Audio Recording](/Sound/Basic%20Audio%20Recording/)
      - [Intoduction to Audio and the Industry](/Sound/Basic%20Audio%20Recording/Intro%20to%20Audio%20and%20the%20Industry.md)

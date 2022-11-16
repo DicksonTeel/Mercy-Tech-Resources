@@ -1,0 +1,1 @@
+[![How to wire SpeakON cable](https://img.youtube.com/vi/z_gzIz7dvgE/0.jpg)](https://youtu.be/z_gzIz7dvgE)

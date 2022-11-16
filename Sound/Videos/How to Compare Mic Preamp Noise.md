@@ -1,0 +1,1 @@
+[![How to Compare Mic Preamp Noise](https://img.youtube.com/vi/2DXEBahqBz4/0.jpg)](https://youtu.be/2DXEBahqBz4)

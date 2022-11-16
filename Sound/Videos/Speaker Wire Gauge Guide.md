@@ -1,0 +1,1 @@
+[![About Speaker Wire Gauges](https://img.youtube.com/vi/atwAOZ6pFqE/0.jpg)](https://youtu.be/atwAOZ6pFqE)

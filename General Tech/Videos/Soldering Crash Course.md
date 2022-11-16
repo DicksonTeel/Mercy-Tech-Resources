@@ -1,0 +1,1 @@
+[![Soldering Crash Course](https://img.youtube.com/vi/6rmErwU5E-k/0.jpg)](https://youtu.be/6rmErwU5E-k)
