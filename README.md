@@ -25,3 +25,4 @@
 1. [Manuals](/Sound/Manuals%20(PDFs)/)
 
 ## Lighting
+1. [Manuals](/Lighting/Manuals/)
