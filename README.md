@@ -2,7 +2,7 @@
 ## General Tech
 1. [Videos](/General%20Tech/Videos/)
 
-## Sound
+## Audio
 1. [Basic Audio Recording](/Sound/Basic%20Audio%20Recording/)
      - [Intoduction to Audio and the Industry](/Sound/Basic%20Audio%20Recording/Intro%20to%20Audio%20and%20the%20Industry.md)
      - [Physics of Sound](/Sound/Basic%20Audio%20Recording/Physics%20of%20Sound.md)
@@ -28,6 +28,10 @@
 1. [InfoSheets](/Sound/InfoSheets/)
 1. [Manuals](/Sound/Manuals%20(PDFs)/)
 1. [Videos](/Sound/Videos/)
+
+## Video
+<!-- 1. [Manuals]() -->
+1. [Videos](/Video/Videos/)
 
 ## Lighting
 1. [Manuals](/Lighting/Manuals/)
