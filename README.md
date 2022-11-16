@@ -22,5 +22,6 @@
      - [Mastering](/Sound/Advanced%20Audio%20Technologies/Mastering.md)
      - [Surround Mixing](/Sound/Advanced%20Audio%20Technologies/Surround%20Mixing.md)
 1. [Live Sound Reinforcement](/Sound/Live%20Sound%20Reinforcement/Live%20Sound%20Reinforcement.md)
+1. [Manuals](/Sound/Manuals%20(PDFs)/)
 
 ## Lighting
