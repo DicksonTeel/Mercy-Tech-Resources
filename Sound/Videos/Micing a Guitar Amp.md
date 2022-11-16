@@ -1,0 +1,1 @@
+[![Micing a Guitar Amp](https://img.youtube.com/vi/wi1MngzmyZk/0.jpg)](https://youtu.be/wi1MngzmyZk)

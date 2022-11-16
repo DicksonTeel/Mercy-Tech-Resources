@@ -1,0 +1,1 @@
+[![Analog vs Digital Mixers](https://img.youtube.com/vi/EZr6M6jE3Iw/0.jpg)](https://youtu.be/EZr6M6jE3Iw)

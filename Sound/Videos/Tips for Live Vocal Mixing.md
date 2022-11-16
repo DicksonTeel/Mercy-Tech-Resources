@@ -1,0 +1,1 @@
+[![Live Vocal Tips](https://img.youtube.com/vi/OJudLG01PQs/0.jpg)](https://youtu.be/OJudLG01PQs)

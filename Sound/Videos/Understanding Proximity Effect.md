@@ -1,0 +1,1 @@
+[![Microphone Proximity Effect](https://img.youtube.com/vi/YH8_urNguhY/0.jpg)](https://youtu.be/YH8_urNguhY)

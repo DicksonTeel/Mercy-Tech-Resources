@@ -1,0 +1,1 @@
+[![How to set up Stage Monitors](https://img.youtube.com/vi/Mh1sYXGZYLc/0.jpg)](https://youtu.be/Mh1sYXGZYLc)

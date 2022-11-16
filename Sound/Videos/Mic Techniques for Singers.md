@@ -1,0 +1,1 @@
+[![Mic Techniques ever Singer should know](https://img.youtube.com/vi/BMbvcgeD5Ok/0.jpg)](https://youtu.be/BMbvcgeD5Ok)
