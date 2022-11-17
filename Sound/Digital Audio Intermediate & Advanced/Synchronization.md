@@ -1,21 +1,20 @@
 *REFERENCE GLOSSARY*
 
-FSK - Frequency Shift Keying.
+- FSK - Frequency Shift Keying.
 
-Anything speed or tempo based that can change is called a relative sync.
+- Anything speed or tempo based that can change is called a relative sync.
 
-MIDI Beat Clock
+- MIDI Beat Clock
 
-Absolute sync is time based sync a minute is a minute.
+- Absolute sync is time based sync a minute is a minute.
 
-MTC
+- MTC
 
-LTC
+- LTC
 
-VITC
+- VITC
 
-SMPTE
+- SMPTE
 
-FPS
-
-Drop Frame - on minute boundaries there is no frame 00/01. The only exception being on 10 minute boundaries.
+- FPS
+- Drop Frame - on minute boundaries there is no frame 00/01. The only exception being on 10 minute boundaries.

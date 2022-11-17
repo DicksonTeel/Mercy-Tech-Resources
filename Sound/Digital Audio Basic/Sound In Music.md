@@ -1,5 +1,5 @@
 # Sound in Music
-*See also BASIC: Physics of Sound*
+[*See also Basic Audio Recording: Physics of Sound*](/Sound/Basic%20Audio%20Recording/Physics%20of%20Sound.md)
 
 - “A-440” is a tuning reference… an “A” note vibrates at 440Hz.
 - 1 octave is double/half the starting frequency.

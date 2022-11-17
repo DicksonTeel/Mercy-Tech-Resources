@@ -1,6 +1,6 @@
 ## Page 1
 
-*REFERENCE BASIC CLASSES*
+[*REFERENCE Basic Audio Recording*](/Sound/Basic%20Audio%20Recording/)
 
 ### Frequency and Amplitude
 - 20-150Hz - low frequencies (boomy, dark, bassy)
@@ -24,8 +24,6 @@
 - Normal conversation is approximately 50-60dBSPL.
 - Small parties can be around 70-75dBSPL.
 - Typical concert can be 105-120dBSPL.
-
-- Read chap. 10,11 for DAY 2
 
 
 ## Page 2
@@ -94,8 +92,6 @@
 - Amplified sound renters a mic at the same or greater level than the direct sound.
 - There’re a few frequencies that reflect more than others.
 
-Read Chap. 11, pg 335 for Day 3 *Quiz*
-
 
 ## Page 3
 
@@ -145,8 +141,6 @@ Read Chap. 11, pg 335 for Day 3 *Quiz*
 		- Blocks DC Voltage (only the direct connection will be able to supply phantom power)
 		- Isolate reactance between consoles.
 		- Provide pin 1 (ground) lifts on every channel.
-
-HW: Research MADI, Dante, AES; and write a short synopsis of each.
 
 
 ## Page 5

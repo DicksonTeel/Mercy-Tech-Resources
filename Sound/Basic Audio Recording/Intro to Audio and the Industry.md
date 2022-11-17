@@ -71,63 +71,63 @@
 ## Jobs
 ### Recording and Mix Engineer
 
-The ears of the project.
-Responsible for all technical aspects of making a studio project sound good.
+- The ears of the project.
+- Responsible for all technical aspects of making a studio project sound good.
 
 ### Assistant or Second Engineer
 
-Supports the engineer’s technical functions.
-Tends to be the most visible studio representative (specifically if working with a freelance engineer).
+- Supports the engineer’s technical functions.
+- Tends to be the most visible studio representative (specifically if working with a freelance engineer).
 
 ### Chief Engineer
 
-Responsible for technical decisions.
-Typically actively engineers sessions.
-Equipment selection.
-Maintenance coordination.
-Engineer development.
+- Responsible for technical decisions.
+- Typically actively engineers sessions.
+- Equipment selection.
+- Maintenance coordination.
+- Engineer development.
 
 ### Maintenance Engineer
 
-Keeps everything working.
+- Keeps everything working.
 
 ### Front of House Engineer
 
-Mixes what the audience hears.
-Tunes the system for each venue.
+- Mixes what the audience hears.
+- Tunes the system for each venue.
 
 ### Monitor Engineer
 
-Mixes what the band hears.
+- Mixes what the band hears.
 
 ### System Engineer
 
-Designs live sound system.
-For major tours, tunes system for FOH Engineer.
+- Designs live sound system.
+- For major tours, tunes system for FOH Engineer.
 
 ### System Tech
 
-Setup/break-down.
-“Goes out” with the system.
+- Setup/break-down.
+- “Goes out” with the system.
 
 ### Other Jobs
 
-Automated Dialogue Replacement (ADR).
-Location Recording.
-FX Recording-Foley.
-Dialogue Recording.
-Radio.
-Commercials.
-Manufacturer’s rep.
-Retail sales.
-Archival and or restoration.
-Houses of Worship.
+- Automated Dialogue Replacement (ADR).
+- Location Recording.
+- FX Recording-Foley.
+- Dialogue Recording.
+- Radio.
+- Commercials.
+- Manufacturer’s rep.
+- Retail sales.
+- Archival and or restoration.
+- Houses of Worship.
 
 ### Other Resources
 
-Les Paul & Mary Ford overdubbing
-Loudness wars
-Dunning kerner effect
-TapeOp
-Electronic Musician
-NAMM - National Association of Music Merchants
+- Les Paul & Mary Ford overdubbing
+- Loudness wars
+- Dunning kerner effect
+- TapeOp
+- Electronic Musician
+- NAMM - National Association of Music Merchants

@@ -1,5 +1,5 @@
 # Signal Processing
-*Build on BASIC 9 (Additional signal flow principals)*
+[*Build on Basic Audio Recording Additional signal flow principals*](/Sound/Basic%20Audio%20Recording/Advanced%20Signal%20Flow%20Principles.md)
 
 ## The Essential Elements of Mixing
 The 2 most important aspects of signal processing are frequency and amplitude (the fundamentals of sound).
@@ -195,16 +195,3 @@ The 2 most important aspects of signal processing are frequency and amplitude (t
 			- Diffusion
 			- Density
 			- Post verb EQ
-
-
-### Unofficial Homework
-
-VCA (Voltage Controlled Amplifier)
-
-Variable Mu Tubes
-
-FET (Field Effect Transistor)
-
-Diode Bridge
-
-Digital: pure digital or emulators of the above types

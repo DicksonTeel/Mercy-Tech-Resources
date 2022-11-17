@@ -94,12 +94,12 @@
 	Harmonic content & other overtones
 	Relative amplitude of these frequencies
 	Phase relationships of these frequencies
-	Acoustic envelope - changes in amplitude over time
-		Attack
-		Decay
-		Sustain
-		Release
-		*Look Up: Acoustic Envelope diagram*
+	Acoustic envelope - changes in amplitude over time:
+- Attack
+- Decay
+- Sustain
+- Release
+- *Look Up: Acoustic Envelope diagram*
 
 Inverse Square Law - doubling the distance between the source of a sound and the pickup of the sound, will lower the direct signal level by 6dBSPL.
 
@@ -159,7 +159,3 @@ Inverse Square Law - doubling the distance between the source of a sound and the
 		- Direct Sound: determines source location, size, and true timbre.
 		- Early Reflections: provides clues on reflectivity, size & nature of room, reflections from largest boundaries.
 		- Reverberation (reverb): densely packed reflections, help determine distance from source, less highs &more apparent lows, often times use artificial reverband delay units to simulate different spaces.
-
-## Other Resources
-
-DPA Microphones
