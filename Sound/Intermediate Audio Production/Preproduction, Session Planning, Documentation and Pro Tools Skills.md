@@ -53,15 +53,15 @@ Sometimes the engineer plans the session, sometimes the engineer is handed that 
 	- Any analog or digital outboard gear use.
 - DAWs do most/all of this for us if the workflow is entirely In The Box.
 
-### Pro Tools Skills
+### DAW Skills
 
-- Basics (search the PDF)
-	- Session creation (Dashboard).
-	- Track creation (tracks).
-	- I/O Settings (inputs)
-	- Grouping tracks (grouping tracks) (during recording is for letting pro tools know that things are phase related).
-	- Markers (Memory Locations).
-	- Playlists (playlists)
+- Basics
+	- Session creation
+	- Track creation
+	- I/O Settings
+	- Grouping tracks
+	- Markers
+	- Take Methodology
 
 - Punching in/out
 	- 4 pieces of info are needed
@@ -69,11 +69,11 @@ Sometimes the engineer plans the session, sometimes the engineer is handed that 
 		- Out point - where recording will end.
 		- Pre roll - lead in so artist can find their place.
 		- Post roll - never want to punch out by pressing stop.
-	- Be sure Quick-punch is on (specific to Pro Tools)
 	- Manual Punch - you do it all
-	- Auto Punch - you tell PT what to do
+	- Auto Punch - you tell the DAW what to do
 - Sometimes you have an “in” without a defined out; “pick it up from…” (only need 2 points of info (preroll and in))
-  
+
+---
 ### Other Resources
 - Sear Sound
 - RIAA.com

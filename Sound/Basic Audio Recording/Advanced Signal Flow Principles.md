@@ -46,11 +46,12 @@
 - Consoles
 	- Subgroup
 		- Combine or “Submix” tracks using a bus; either a Multi-Track bus or alternate Stereo Bus.
-		- Will combine with the rest of the mix at the Stereo Bus.
+		- Will be able to combine with the rest of the mix at the Stereo Bus.
 
 ### Soloing
 - Gives us the ability to listen to channels/groups/buses by themselves
-- Destructive - solos one channel by cutting the rest, thereby leaving only one channel to listen to. Does not use a separate bus. SIP - Solo In Place. SIF - Solo In Front (Dims the other tracks instead of cutting them). Solo Safe/Isolate - Tells soloing system that user selected channels are not to be effected by entering solo mode.
+- Destructive - solos one channel by cutting the rest, thereby leaving only one channel to listen to. Does not use a separate bus. SIP - Solo In Place. SIF - Solo In Front (Dims the other tracks instead of cutting them).
+- Solo Safe/Isolate - Tells soloing system that user selected channels are not to be effected by entering solo mode.
 - Non-Destructive - PFL - Pre Fader Listen, can hear channels even if the fader is down. Level soloed is not always the same level being monitored. AFL - After Fader Listen, you hear the level of the channel as it is in mixing.
 
 ### Patch bay

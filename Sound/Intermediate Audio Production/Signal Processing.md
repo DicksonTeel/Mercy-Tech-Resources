@@ -42,7 +42,7 @@ The 2 most important aspects of signal processing are frequency and amplitude (t
 - Uses for EQ
 	- Tone shaping.
 	- Reducing unwanted sounds (leakage or noise (aspects of the sound that aren’t tone)).
-
+---
 ### Dynamics - A Processing category that is used to alter the dynamic range of a signal. Increase/decrease dynamic range. Control volume peaks of a signal.
 
 - “Downward” Compression
@@ -51,7 +51,7 @@ The 2 most important aspects of signal processing are frequency and amplitude (t
 - “Upward” Compression
 	- Used far less often than “downward” Compression. Reduces the dynamic range by turning up the soft signals, does nothing to loud signals.
 
-- Compression Parameters:
+- Common Compression Parameters:
 	- Threshold: Level at which the compressor begins working.
 	- Ratio: Expresses the amount of gain reduction. Input signal : Output signal.
 	- Attack: How quickly the processor reaches its final gain reduction to signals that have crossed the threshold. Also applies to all rising signals that are above the threshold.
@@ -112,7 +112,7 @@ The 2 most important aspects of signal processing are frequency and amplitude (t
 	- Multi-Band Compression
 		- Works by splitting the signal into several different frequency ranges for individual processing. Signals are recombined at the output of the processor. Each frequency band is assigned its own processor.
 		- Gives independent dynamics control over the different frequency ranges.
-
+---
 ### Time Based Effects
 - An effect category that can be used to alter and/or augment a signal based around delays and regeneration of signal over time.
 - Often used to change perceived depth, dimension or character of sound. Can be used to add ambience to dry signals.
@@ -184,14 +184,14 @@ The 2 most important aspects of signal processing are frequency and amplitude (t
 				- Gated Reverb: Setup by putting a noise gate after the reverb in order to purposefully cut off the reverb.
 				- Algorithmic Reverb: A kind of reverb device that is calculated in real time using DSP code. These usually have many perimeters, making them flexible and versatile.
 				- Convolution Reverb: Uses samples of real-life acoustic spaces. But, often, have limited ability to modify the reverb sound.
-		- Reverb Parameters
+		- Common Reverb Parameters
 			- ER - the first reflections
-			- Rev Time (Decal) in ms
-			- Pre Delay - delay inserted before anything happens
+			- Rev Time (Decay) in ms
+			- Pre Delay - delay inserted before anything happens, typically in ms
 			- Type
-			- Room size
+			- Size
 			- Damping
-			- Pre verb EQ (hi/lo)
+			- Pre verb EQ
 			- Diffusion
 			- Density
 			- Post verb EQ

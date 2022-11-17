@@ -1,31 +1,31 @@
 # Principles of Signal Flow
 
 Signal Flow: the framework of ALL audio-engineering
-There are many facets to signal flow. Today will only discuss what is needed to do basics and overdubbing. Mixing will be covered at a later date.
+There are many facets to signal flow. Today will only discuss what is needed to do basic recording and overdubbing. Mixing will be covered at a later date.
 
 ## What is a Buss(bus)?
 - At certain points in the signal flow, signals must be combined or “mixed” together. Signals are combined by feeding the signals to a “Bus”. A bus can accept many signals at its input and combine together into one output.
-- The are 3 types of Buses
+- There are 3 types of Buses
 	1. Stereo Bus - what makes your 2-track mix.
 	2. Auxiliary Send - used to make “headphone” mixes and to add certain types of “effects”.
-	3. Multitrack Bus - a bus used to combine mic’s/Direct Injection Boxes during recording or to create sub-mixes/groups.
+	3. Multitrack Bus - a bus used to combine individual mic’s/Direct Injection Boxes during recording or to create sub-mixes/groups.
 
-- 5 initial Signal Flow Concepts
-	1. Input path/section: microphone/DI-Box to multitrack recorder, 1 for each mic.
+- 5 Initial Signal Flow Concepts
+	1. Input path/section: microphone/DI-Box to multitrack recorder, 1 for each input.
 	2. Monitor path/section: from multitrack recorder to stereo bus, 1 for each track.(engineer’s mix)
-	3. Cue or Headphone path/section: using aux sends to create a discrete headphone mix, 1 for each track.(artist mix)
-	4. Masters section: a collection of bus masters. (ST,aux,MT)
-	5. Monitor (speaker) Controller: either a part of the console, interface, or a stand alone device that is responsible for what comes out of speakers and more.
+	3. Cue or Headphone path/section: using aux sends to create a discrete headphone mix, 1 for each input track.(artist mix)
+	4. Master section: a collection of bus masters. (ST,AUX/GRP,MTX)
+	5. Monitor (speaker) Controller: either a part of the console, interface, or a stand alone device that is responsible for what comes out of speakers and possibly more.
 - Input Section
 	- The mic pre, short for microphone preamp, provides the following for mic/DI signals:
 		- Gain - boosting the signal from the mic to the line level
 		- Phantom Power - +48v for condenser mics or certain DI-Boxes
 		- Pad - attenuation for high output mic signals
 		- Phase Reverse - 180 degree phase reversal of the signal
-		- *features may vary*
+		- *These and other features may vary*
 	- Input sections can sometimes accept sources other than microphones such as line level or instrument level signals.
 
-	- Opt Proc AKA Optional Processing AKA EQ/Dynamics.
+	- Optional Processing AKA EQ/Dynamics/Inserts.
 
 	- Input fader - not present in all situations (hardware dependent)
 		- The input fader gives level control over signals bound for the multitrack. Typically, the input fader is set at “unity gain” or 0dB. This way, the fader neither adds nor subtracts from the signal.
@@ -53,12 +53,12 @@ There are many facets to signal flow. Today will only discuss what is needed to 
 		- Master fader master
 		- Multitrack bus master
 		- Aux/Cue/FX (send) master
-	- Every bus must have a master level control, but every bus has a master.
+	- Every bus must have a master level control.
 
 - Monitor Controller
 	- The monitor controller section provides control over signals going to the control room monitors.
 	- These controls are:
-		- Monitor source: stereo bus, 2-track return, CD, iPod, etc.
+		- Monitor source: stereo bus, 2-track return, Ext. Media Player, etc.
 		- Monitor mode: mono, stereo, surround
 		- Speaker select: main, alt, mini, etc.
 

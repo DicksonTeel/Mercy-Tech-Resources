@@ -6,3 +6,7 @@
 - 5-pin DIN Connector
 - Star Network: a multi I/O hub that routes data amongst the connected devices. Star Networks can be connected to other Star Networks.
 - MIDI 1.0 can support up to 16 Channels.
+
+<p>
+There now exists MIDI 2.0
+</p>

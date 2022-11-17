@@ -26,7 +26,7 @@
 
 - Works on magnetic conduction
 	- Lightweight ribbon mounted between two magnets
-- Very fragile (drops and wind)
+- Very fragile (drops and wind can damage)
 - Give a smooth frequency response
 
 ## Condenser Mics
@@ -43,6 +43,8 @@
 - Large Diaphram Condenser (LDC)
 
 **Dynamics are usually for up close/Condensers are usually for further away**
+
+---
 
 ## Microphone Properties
 ### Phantom Power (±48V)
@@ -86,6 +88,8 @@
 	- Highpass Filter
 	- Use a bass roll-off switch on your mic (sound of an Omni, pattern of a cardioid)
 	- Change polar patterns
+
+---
 
 ## Microphone Techniques
 ### Close mic’ing
@@ -163,8 +167,7 @@
 	- TRS cables are balanced
 	- 1 balanced Low impedance (TRS) OR Stereo, High impedance (TRS)
 
+---
 ## Other Resources
 
 - How It’s Made: Microphones
-- Tt cable
-- Unofficial homework: ORTF/DIN, Decca Tree, Jecklin Disk, Faulkner, Glyn Johns

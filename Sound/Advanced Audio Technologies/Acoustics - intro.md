@@ -76,11 +76,11 @@ The best recipient for soundproofing often uses combinations of all three in one
 
 1. Sound leakage
 	- Sounds getting in or out of the studio / control room / iso booths
-	- **Fix**: sound proofing
+	- **Fix**: sound treatment
 
 2. Sound flanking
 	- Sound going around unjointed objects
-	- **Fix**: sound proofing
+	- **Fix**: sound treatment
 
 3. Room Reverberation
 	- RT-60: the time it takes for the reflected sound to drop by 60dB.

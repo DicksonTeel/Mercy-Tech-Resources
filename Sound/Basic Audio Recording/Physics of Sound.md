@@ -4,8 +4,6 @@
 - Sound waves are variations in atmospheric pressure.
 - Wave propagation - sound moves through a medium (air) in a 3-d, spherical pattern.
 
-  
-
 ## Compressions & Rarefactions:
 
 - Small shifts in atmospheric pressure.
@@ -113,12 +111,12 @@ Inverse Square Law - doubling the distance between the source of a sound and the
 - Headroom: the difference between the Normal Operating Level and the level where distortion begins. Higher is better
 - Dynamic Range: The difference in dB between the Noise Floor and the point of distortion.
 
-- Amplitude can be measured in many ways…
+- Amplitude can be measured in many ways… here are 2:
 	- Peak: the absolute peak of the waveform.
-	- RMS/Avg: represents more the way humans judge loudness.
+	- RMS: represents more the way humans judge loudness.
 
 - Metering
-	- Volume Units: Mechanical needle.
+	- Volume Units (VU): Mechanical needle.
 	- Bar-graph meter: emulates many types
 
 - The Ear & Perception of Sound (Psychoacoustics)
@@ -153,7 +151,7 @@ Inverse Square Law - doubling the distance between the source of a sound and the
 			- Two speakers can simulate sound coming from any location between the speakers.
 			- The exact same sound from both speakers will sound like it originates from center.
 			- Panning changes perceived location by changing inter-aural intensity.
-			- Panning can be used to combat masking.
+			- Panning can be used to combat frequency masking.
 
 	- Perception of Space
 		- Direct Sound: determines source location, size, and true timbre.

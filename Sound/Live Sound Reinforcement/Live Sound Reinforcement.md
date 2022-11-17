@@ -3,13 +3,13 @@
 [*REFERENCE Basic Audio Recording*](/Sound/Basic%20Audio%20Recording/)
 
 ### Frequency and Amplitude
-- 20-150Hz - low frequencies (boomy, dark, bassy)
-- 150-800Hz - low mid frequencies (warm, muddy)
-- 500-800Hz (barky)
-- 800-4kHz - mid frequencies (harsh, nasally)
-- 4-8kHz - hi mid frequencies (sibilant, somewhat bright, rough)
-- 8-20kHz - hi frequencies (bright, airy)
-- *These ranges are not absolute*
+- 20-200Hz - low frequencies (boomy, dark, bassy)
+- 200-1000Hz - low mid frequencies (warm, muddy)
+	- 500-800Hz (barky)
+- 1kHz-5kHz - mid frequencies (harsh, nasally)
+- 5-10kHz - hi mid frequencies (sibilant, somewhat bright, rough)
+- 10-20kHz - hi frequencies (bright, airy)
+- ***These ranges are not absolute***
 
 - Complex waveform: the fundamental frequency plus itself to infinity (its harmonics).
 - All frequencies involved make up the tone or timber
@@ -25,7 +25,7 @@
 - Small parties can be around 70-75dBSPL.
 - Typical concert can be 105-120dBSPL.
 
-
+---
 ## Page 2
 
 - 85 dBSPL is the point that human hearing responds to frequencies the flattest.
@@ -92,7 +92,7 @@
 - Amplified sound renters a mic at the same or greater level than the direct sound.
 - There’re a few frequencies that reflect more than others.
 
-
+---
 ## Page 3
 
 - Head Room = Peak Levels Needed - the Nominal Operating Level
@@ -103,7 +103,7 @@
 - In a Balanced Cable; pin 1 is always ground, pin 2 and 3 can be the Hot (the line carrying the positive signal referencing the ground) pin depending on how the equipment was assembled.
 - In an Unbalanced Cable; pin 1 is the ground and pin 2 or 3 carries the audio.
 
-
+---
 ## Page 4
 
 ### Console
@@ -142,11 +142,10 @@
 		- Isolate reactance between consoles.
 		- Provide pin 1 (ground) lifts on every channel.
 
-
+---
 ## Page 5
 
 - PAD is also known as an Attenuator.
-
   
 ### Drivers
 
@@ -174,7 +173,6 @@
 - Different drivers have different Impedence values. Nominal Impedence (average Impedence).
 
   
-
 ### Audio Crossover - divides frequency bandwidths which then goes to separate drivers.
 
 - Passive Crossover: internal component of the speaker cabinet. Designed by the manufacturer. Fixed frequency ranges. High current speaker level. These tend to be full range speakers.
@@ -196,7 +194,7 @@
 - Slew Rate: a rate of time; time from input to output. How quickly the amp amplifies the signal. Affects high frequencies most. Lower rates are better.
 - “One Legged” - only 2 of 3 pins are working in a cable.
 
-
+---
 ## Page 6
 
 ### Sound Distribution

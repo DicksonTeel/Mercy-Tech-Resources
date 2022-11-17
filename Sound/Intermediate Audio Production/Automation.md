@@ -27,7 +27,8 @@
 - These modes can be global or on a per channel basis.
 
 
-### Additional Automation Modes: Determine how to get into writing automation & how to get out of writing automation.
+### Additional Automation Modes
+- **Determine how to get into writing automation & how to get out of writing automation.**
 
 - Touch/return/snap: Automation data is only being written while the fader is being “touched”, afterward it switches back to Read.
 - Latch: Automation data is written when the fader is touched, but the parameters stay in record when the fader is released.
@@ -37,12 +38,13 @@
 
 - These modes can be global or on a per channel basis.
 
-  
-## Automation Workflow: Get a relative blend and basic sounds before starting automation. Compressor & EQ settings can affect levels and therefore should be decided upon before automation.
+---
+## Automation Workflow
+- **Get a relative blend and basic sounds before starting automation. Compressor & EQ settings can affect levels and therefore should be decided upon before automation.**
 
 - Automation uses breakpoints that are arranged on a line. Automation is contained in an Automation “playlist”, one for each parameter. The good thing about breakpoints is that they allow for graphical entry and editing. Before automation begins there is an “initial” breakpoint (this is where the parameters are to begin with). Automation for tracks is “always on” (unless specifically suspended) but plugin parameters need to be “auto enabled” individually, but the basic volume, pan, and mute are always enabled. Automation types can be enabled/disabled globally. You can also add “lanes” to view multiple - editable - automation parameters at the same time.
 
-
+---
 ## Freeze and Commit
 ### Freeze
 
