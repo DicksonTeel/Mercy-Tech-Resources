@@ -26,6 +26,9 @@
      - [Surround Mixing](/Sound/Advanced%20Audio%20Technologies/Surround%20Mixing.md)
 1. [Live Sound Reinforcement](/Sound/Live%20Sound%20Reinforcement/Live%20Sound%20Reinforcement.md)
 1. [InfoSheets](/Sound/InfoSheets/)
+     - [Frequency Spectrums](/Sound/InfoSheets/Frequency%20Spectrums/)
+     - [Processing Tips](/Sound/InfoSheets/Processing%20Tips/)
+     - [Audio Toolkit](/Sound/InfoSheets/Link%20to%20an%20Audio%20Toolkit.md)
 1. [Manuals](/Sound/Manuals%20(PDFs)/)
 1. [Videos](/Sound/Videos/)
 
