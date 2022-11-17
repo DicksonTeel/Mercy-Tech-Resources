@@ -1,0 +1,1 @@
+[![White Noise vs Pink Noise](https://img.youtube.com/vi/Qkb2yRKJxSc/0.jpg)](https://youtu.be/Qkb2yRKJxSc)

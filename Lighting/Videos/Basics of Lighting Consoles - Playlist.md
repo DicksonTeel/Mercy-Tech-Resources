@@ -1,0 +1,1 @@
+[![Basics of Lighting Consoles](https://img.youtube.com/vi/D_yC8kQGIIE/0.jpg)](https://youtube.com/playlist?list=PLEyo6_xbT5EC6eKm7S33jRhLiCXqi26ZG)

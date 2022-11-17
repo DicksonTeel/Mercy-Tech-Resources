@@ -1,0 +1,1 @@
+[![Subwoofer Alignment](https://img.youtube.com/vi/YToV8Q-K83s/0.jpg)](https://youtu.be/YToV8Q-K83s)

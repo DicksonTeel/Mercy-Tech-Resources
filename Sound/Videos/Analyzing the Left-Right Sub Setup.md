@@ -1,0 +1,1 @@
+[![Left/Right Sub Systems](https://img.youtube.com/vi/Y2GJ77IpjjA/0.jpg)](https://youtu.be/Y2GJ77IpjjA)

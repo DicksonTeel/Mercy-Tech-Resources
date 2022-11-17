@@ -1,0 +1,1 @@
+[![Frequency Response Basics](https://img.youtube.com/vi/y4NqSGGRRJM/0.jpg)](https://youtu.be/y4NqSGGRRJM)
