@@ -1,0 +1,1 @@
+[![Gain Staging](https://img.youtube.com/vi/Q9a7nECzq9Y/0.jpg)](https://youtu.be/Q9a7nECzq9Y)
