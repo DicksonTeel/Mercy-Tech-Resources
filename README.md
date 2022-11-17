@@ -35,6 +35,7 @@
 
 ## Video
 <!-- 1. [Manuals]()
+1. [Cameras](/Video/Cameras/)
 1. [Videos](/Video/Videos/) -->
 
 ## Lighting
