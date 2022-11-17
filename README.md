@@ -25,6 +25,7 @@
      - [Mastering](/Sound/Advanced%20Audio%20Technologies/Mastering.md)
      - [Surround Mixing](/Sound/Advanced%20Audio%20Technologies/Surround%20Mixing.md)
 1. [Live Sound Reinforcement](/Sound/Live%20Sound%20Reinforcement/Live%20Sound%20Reinforcement.md)
+1. [Audio Protocols](/Sound/Audio%20Protocols/)
 1. [InfoSheets](/Sound/InfoSheets/)
      - [Frequency Spectrums](/Sound/InfoSheets/Frequency%20Spectrums/)
      - [Processing Tips](/Sound/InfoSheets/Processing%20Tips/)
@@ -37,5 +38,6 @@
 1. [Videos](/Video/Videos/) -->
 
 ## Lighting
+1. [Lighting Protocols](/Lighting/Lighting%20Protocols/)
 1. [Manuals](/Lighting/Manuals/)
 1. [Videos](/Lighting/Videos/)
