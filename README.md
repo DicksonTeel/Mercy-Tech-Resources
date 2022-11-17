@@ -33,8 +33,8 @@
 1. [Videos](/Sound/Videos/)
 
 ## Video
-<!-- 1. [Manuals]() -->
-1. [Videos](/Video/Videos/)
+<!-- 1. [Manuals]()
+1. [Videos](/Video/Videos/) -->
 
 ## Lighting
 1. [Manuals](/Lighting/Manuals/)
