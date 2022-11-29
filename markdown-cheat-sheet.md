@@ -64,9 +64,9 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 ### Table
 
 | Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| ------ | ----------- |
+| Text | Text |
+| Text | Text |
 
 ### Fenced Code Block
 
