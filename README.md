@@ -1,4 +1,7 @@
-# ***Table of Contents***
+# **Welcome**
+This Github Repository is designed and intended to be a hub where one can find learning resources to learn more about the technology in the Mercy tech booth as well as about the relavent skills and technologies in surrounding fields of interest.
+
+# *Table of Contents*
 ## General Tech
 1. [Videos](/General%20Tech/Videos/)
 
