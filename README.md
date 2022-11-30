@@ -39,7 +39,7 @@ This Github Repository is designed and intended to be a hub where one can find l
 1. [Glossary](/Sound/Glossary.md)
 
 ## Video
-<!-- 1. [Manuals]()
+<!-- 1. [Manuals](/Video/Manuals/)
 1. [Cameras](/Video/Cameras/)
 1. [Videos](/Video/Videos/) -->
 
