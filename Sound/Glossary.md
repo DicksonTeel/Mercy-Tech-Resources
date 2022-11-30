@@ -38,33 +38,33 @@
 
 | Measurement | Description |
 | ----------- | ----------- |
-| Hertz: Hz | Text |
-| Kilohertz: kHz | Text |
-| Octave: Oct | Text |
-| Semitone: St | Text |
-| Cent: Ct | Text |
-| Decibel: dB | Text |
+| Hertz: Hz | Cycles per second, frequency, determines pitch |
+| Kilohertz: kHz | One thousand hertz |
+| Octave: Oct | 12 semitones or double the frequency |
+| Semitone: St | A chromatic half step or 1/12th of an octave |
+| Cent: Ct | 1/100th of a semitone |
+| Decibel: dB | An exponential scale used to measure volume |
 | BPM | Beats per Minute: used to convey musical tempo |
-| Millisecond: ms | Text |
-| Nanosecond: ns | Text |
-| Bit | Text |
-| Byte | Text |
-| Kilobyte: KB | Text |
-| Megabyte: MB | Text |
-| Gigabyte: GB | Text |
-| Terabyte: TB | Text |
-| LSB & MSB | Text |
+| Millisecond: ms | 1/1,000th of a second |
+| Nanosecond: ns | 1/1,000,000,000th of a second |
+| Bit | A single digit stored as one of two possible valuse, a zero or a one |
+| Byte | 8 bits (digital zeros or ones) form a byte |
+| Kilobyte: KB | 1024 bytes |
+| Megabyte: MB | 1024 kilobytes, 1 million bytes |
+| Gigabyte: GB | 1024 megabytes, 1 billion bytes |
+| Terabyte: TB | 1024 gigabytes, 1 trillion bytes |
+| LSB & MSB | Least Significant Byte / Bit and Most Significant Byte / Bit |
 
 ---
 
 | Musical Element | Description |
 | --------------- | ----------- |
-| Pitch | Text |
-| Timbre | Text |
-| Volume | Text |
-| Tempo | Text |
-| Sine Wave | Text |
-| Harmonic series | Text |
+| Pitch | The frequency of a note. Given in Hertz or musical note values such as A4, which equals 440Hz |
+| Timbre | Tone, the sonic characteristics of a sound |
+| Volume | Loudness or amplitude, measured in decibles |
+| Tempo | Speed or pace of music, commonly designated in BPM |
+| Sine Wave | The basic building block of all sound. A fundamental or root pitch with *no* harmonics |
+| Harmonic series | Frequencies that are integer multiples of the root frequency: root x2, root x3, root x4, etc. also known as Overtones or Partials. Harmonics have a linear relationship |
 
 ---
 
