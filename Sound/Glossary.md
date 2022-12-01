@@ -1,10 +1,10 @@
 | Term | Description |
 | ---- | ----------- |
-| MIDI | Text |
-| VCO, VCF, VCA | Text |
-| LFO | Text |
-| ADSR | Text |
-| SMPTE | Text |
+| MIDI | Musical Instrument Digital Interface |
+| VCO, VCF, VCA | Voltage Controlled Oscillator / Filter / Amplifier |
+| LFO | Low Frequency Oscillator, Often used as a modulator to control another signal and not heard as audio |
+| ADSR | Attack-Decay-Sustain-Release, The basic envelope structure. An envelope controls time and level of a signal |
+| SMPTE | Society of Motion Picture and Television Engineers (timecode), also a for on absolute sync |
 | LTC | Text |
 | VITC | Text |
 | MTC | Text |
