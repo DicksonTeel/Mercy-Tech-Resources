@@ -134,7 +134,7 @@
 ## Mic Level vs Line Level vs Instrument Level
 
 - Mic level - a range of voltages that are lower in level than line level (approx -60 to -40dBu)
-- Line level. Typical running level through most equipment aka nominal operating level (+4dBu)
+- Line level - Typical running level through most equipment aka nominal operating level (+4dBu)
 - Instrument level - varies widely, sometimes down with mic level and sometimes approaching line level. Older passive pickups vs modern active pickups.
 
 - Impedance

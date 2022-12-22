@@ -40,7 +40,8 @@ This Github Repository is designed and intended to be a hub where one can find l
 
 ## Video
 <!-- 1. [Manuals](/Video/Manuals/)
-1. [Cameras](/Video/Cameras/)
+1. [Camera Types](/Video/Cameras/)
+1. [Video Protocols](/Video/Video%20Protocols/)
 1. [Videos](/Video/Videos/) -->
 
 ## Lighting
