@@ -1,0 +1,1 @@
+[![The Myth of the Maximum Gain Setting](https://img.youtube.com/vi/beXVfl1TSD0/0.jpg)](https://youtu.be/beXVfl1TSD0)

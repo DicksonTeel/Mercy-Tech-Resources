@@ -1,0 +1,1 @@
+[![Compression Guide Pt 1](https://img.youtube.com/vi/BIVfpsoPnOo/0.jpg)](https://youtu.be/BIVfpsoPnOo)

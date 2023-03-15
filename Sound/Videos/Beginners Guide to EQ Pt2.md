@@ -1,0 +1,1 @@
+[![EQ Guide Pt 2](https://img.youtube.com/vi/47ZBiowAVdI/0.jpg)](https://youtu.be/47ZBiowAVdI)
