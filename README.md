@@ -39,10 +39,10 @@ This Github Repository is designed and intended to be a hub where one can find l
 1. [Glossary](/Sound/Glossary.md)
 
 ## Video
-<!-- 1. [Manuals](/Video/Manuals/)
+1. [Manuals](/Video/Manuals/)
 1. [Camera Types](/Video/Cameras/)
 1. [Video Protocols](/Video/Video%20Protocols/)
-1. [Videos](/Video/Videos/) -->
+1. [Videos](/Video/Videos/)
 
 ## Lighting
 1. [Lighting Protocols](/Lighting/Lighting%20Protocols/)
