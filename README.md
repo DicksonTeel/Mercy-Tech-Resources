@@ -35,6 +35,7 @@ This Github Repository is designed and intended to be a hub where one can find l
      - [Audio Toolkit](/Sound/InfoSheets/Link%20to%20an%20Audio%20Toolkit.md)
      - [Plugin Formats](/Sound/InfoSheets/Plugin%20Formats.md)
 1. [Manuals](/Sound/Manuals%20(PDFs)/)
+     - [Mercy Equipment](/Sound/Manuals%20(PDFs)/Mercy%Equipment)
 1. [Videos](/Sound/Videos/)
 1. [Glossary](/Sound/Glossary.md)
 
