@@ -42,11 +42,12 @@ This Github Repository is designed and intended to be a hub where one can find l
 1. [Videos](/Sound/Videos/)
 1. [Glossary](/Sound/Glossary.md)
 
-## Video
-1. [Manuals](/Video/Manuals/)
-1. [Camera Types](/Video/Cameras/)
-1. [Video Protocols](/Video/Video%20Protocols/)
-1. [Videos](/Video/Videos/)
+## Photo & Video
+1. [Manuals](/Photo%20%26%20Video/Manuals/)
+1. [Camera Types](/Photo%20%26%20Video/Cameras/)
+1. [Video Protocols](/Photo%20%26%20Video/Video%20Protocols/)
+1. [Software](/Photo%20%26%20Video/Software/)
+1. [Videos](/Photo%20%26%20Video/Videos/)
 
 ## Lighting
 1. [Lighting Protocols](/Lighting/Lighting%20Protocols/)
