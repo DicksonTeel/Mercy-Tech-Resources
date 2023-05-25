@@ -4,7 +4,7 @@ This Github Repository is designed and intended to be a hub where one can find l
 # *Table of Contents*
 ## General Tech
 1. [Videos](/General%20Tech/Videos/)
-1. [Software](/General%20Tech/Software)
+1. [Software](/General%20Tech/Software/)
 
 ## Audio
 1. [Basic Audio Recording](/Sound/Basic%20Audio%20Recording/)
