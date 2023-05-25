@@ -4,6 +4,7 @@ This Github Repository is designed and intended to be a hub where one can find l
 # *Table of Contents*
 ## General Tech
 1. [Videos](/General%20Tech/Videos/)
+1. [Software](/General%20Tech/Software)
 
 ## Audio
 1. [Basic Audio Recording](/Sound/Basic%20Audio%20Recording/)
@@ -37,6 +38,7 @@ This Github Repository is designed and intended to be a hub where one can find l
 1. [Manuals](/Sound/Manuals%20(PDFs)/)
      <!---     - [Mercy Equipment]()
      - [Other Common Hardware]() --->
+1. [Software](/Sound/Software/)
 1. [Videos](/Sound/Videos/)
 1. [Glossary](/Sound/Glossary.md)
 
@@ -49,4 +51,5 @@ This Github Repository is designed and intended to be a hub where one can find l
 ## Lighting
 1. [Lighting Protocols](/Lighting/Lighting%20Protocols/)
 1. [Manuals](/Lighting/Manuals/)
+1. [Software](/Lighting/Software/)
 1. [Videos](/Lighting/Videos/)
