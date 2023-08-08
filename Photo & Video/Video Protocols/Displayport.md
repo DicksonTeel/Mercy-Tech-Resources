@@ -101,3 +101,43 @@ Audio data is transmitted across the main link during the video blanking interva
 The DisplayPort AUX channel is a half-duplex (bidirectional) data channel used for miscellaneous additional data beyond video and audio, such as EDID (I2C) or CEC commands. This bidirectional data channel is required, since the video lane signals are unidirectional from source to display. AUX signals are transmitted across a dedicated set of twisted-pair wires. DisplayPort 1.0 specified Manchester encoding with a 2 Mbaud signal rate (1 Mbit/s data rate). Version 1.2 of the DisplayPort standard introduced a second transmission mode called FAUX (Fast AUX), which operated at 720 Mbaud with 8b/10b encoding (576 Mbit/s data rate), but it was deprecated in version 1.3.
 
 ## Cables & Connectors
+### Cables
+All DisplayPort cables are compatible with all DisplayPort devices, regardless of the version of each device or the cable certification level. Additionally, all features of DisplayPort will function across any DisplayPort cable.
+
+DisplayPort does not have multiple cable designs; all DP cables have the same basic layout and wiring, and will support any feature including audio, daisy-chaining, G-Sync/FreeSync, HDR, and DSC. Where DisplayPort cables differ is in their transmission speed support.
+
+DisplayPort specifies seven different transmission modes (RBR, HBR, HBR2, HBR3, UHBR 10, UHBR 13.5, and UHBR 20) which support progressively higher bandwidths. Not all DisplayPort cables are capable of all seven transmission modes. VESA offers certifications for various levels of bandwidth. These certifications are optional, and not all DisplayPort cables are certified by VESA. Cables with limited transmission speed are still compatible with all DisplayPort devices, but may place limits on the maximum resolution or refresh rate available.
+
+DisplayPort cables are not classified by "version" like you would find with protocols like HDMI. Although cables are commonly labeled with version numbers, with HBR2 cables advertised as "DisplayPort 1.2 cables" for example, this notation is not permitted by VESA. The use of version numbers with cables can falsely imply that a DisplayPort 1.4 display requires a "DisplayPort 1.4 cable", or that features introduced in version 1.4 such as HDR or DSC will not function with older "DP 1.2 cables". DisplayPort cables are classified only by their bandwidth certification level (RBR, HBR, HBR2, HBR3, etc.), if they have been certified at all. Not all DisplayPort cables are capable of functioning at the highest levels of bandwidth. Cables may be submitted to VESA for an optional certification at various bandwidth levels. VESA offers four levels of cable certification: Standard, DP8K, DP40, and DP80. These certify DisplayPort cables for proper operation at the following speeds:
+
+| DisplayPort cable certifications |  |  |
+| ----------------- | --------------------- | ------------------------------------ |
+| **Transmission mode** | **Transmission bit rate**  | **Minimum required cable certification** |
+| RBR (Reduced Bit Rate)              |	6.48 Gbit/s  |	Standard VESA-certified DisplayPort cable |
+| HBR (High Bit Rate)                 |	10.80 Gbit/s |  Standard VESA-certified DisplayPort cable |
+| HBR2 (High Bit Rate 2)              |	21.60 Gbit/s |  Standard VESA-certified DisplayPort cable |
+| HBR3 (High Bit Rate 3)              |	32.40 Gbit/s |	DP8K DisplayPort cable |
+| UHBR10 (Ultra High Bit Rate 10)     |	40.00 Gbit/s |	DP40 cable |
+| UHBR13.5 (Ultra High Bit Rate 13.5) |	54.00 Gbit/s |	DP80 cable |
+| UHBR20 (Ultra High Bit Rate 20)     |	80.00 Gbit/s |  DP80 cable |
+
+#### Cable length
+The DisplayPort standard does not specify any maximum length for cables, though the DisplayPort 1.2 standard does set a minimum requirement that all cables up to 2 meters in length must support HBR2 speeds (21.6 Gbit/s), and all cables of any length must support RBR speeds (6.48 Gbit/s). Cables longer than 2 meters may or may not support HBR/HBR2 speeds, and cables of any length may or may not support HBR3 speeds or above.
+
+### Connectors
+DisplayPort cables and ports may have either a "full-size" connector or a "mini" connector. These connectors differ only in physical shape—the capabilities of DisplayPort are the same regardless of which connector is used. Using a Mini DisplayPort connector does not affect performance or feature support of the connection.
+
+#### Full-size DisplayPort connector
+The standard DisplayPort connector (now referred to as a "full-size" connector to distinguish it from the mini connector) was the sole connector type introduced in DisplayPort 1.0. It is a 20-pin single-orientation connector with a friction lock and an optional mechanical latch. The standard DisplayPort receptacle has dimensions of 16.10 mm (width) × 4.76 mm (height) × 8.88 mm (depth).
+
+The standard DisplayPort connector pin allocation is as follows:
+- 12 pins for the main link – the main link consists of four shielded twisted pairs. Each pair requires 3 pins; one for each of the two wires, and a third for the shield. (pins 1–12)
+- 2 additional ground pins – (pins 13 and 14)
+- 3 pins for the auxiliary channel – the auxiliary channel uses another 3-pin shielded twisted pair (pins 15–17)
+- 1 pin for HPD – hot-plug detection (pin 18)
+- 2 pins for power – 3.3 V power and return line (pins 19 and 20)
+
+#### Mini DisplayPort connector
+The Mini DisplayPort connector was developed by Apple for use in their computer products. It was first announced in October 2008 for use in the new MacBooks and Cinema Display. In 2009, VESA adopted it as an official standard, and in 2010 the specification was merged into the main DisplayPort standard with the release of DisplayPort 1.2.
+
+The Mini DisplayPort (mDP) connector is a 20-pin single-orientation connector with a friction lock. Unlike the full-size connector, it does not have an option for a mechanical latch. The mDP receptacle has dimensions of 7.50 mm (width) × 4.60 mm (height) × 4.99 mm (depth). The mDP pin assignments are the same as the full-size DisplayPort connector.
