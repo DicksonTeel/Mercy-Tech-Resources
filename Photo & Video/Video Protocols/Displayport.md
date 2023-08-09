@@ -141,3 +141,81 @@ The standard DisplayPort connector pin allocation is as follows:
 The Mini DisplayPort connector was developed by Apple for use in their computer products. It was first announced in October 2008 for use in the new MacBooks and Cinema Display. In 2009, VESA adopted it as an official standard, and in 2010 the specification was merged into the main DisplayPort standard with the release of DisplayPort 1.2.
 
 The Mini DisplayPort (mDP) connector is a 20-pin single-orientation connector with a friction lock. Unlike the full-size connector, it does not have an option for a mechanical latch. The mDP receptacle has dimensions of 7.50 mm (width) × 4.60 mm (height) × 4.99 mm (depth). The mDP pin assignments are the same as the full-size DisplayPort connector.
+
+### Features
+#### DisplayPort Dual-Mode (DP++)
+Also called Dual-Mode DisplayPort, is a standard which allows DisplayPort sources to use simple passive adapters to connect to HDMI or DVI displays. Dual-mode is an optional feature, so not all DisplayPort sources necessarily support DVI/HDMI passive adapters, though in practice nearly all devices do. Officially, the "DP++" logo should be used to indicate a DP port that supports dual-mode, but most modern devices do not use the logo. Devices which implement dual-mode will detect that a DVI or HDMI adapter is attached, and send DVI/HDMI TMDS signals instead of DisplayPort signals.
+
+The original DisplayPort Dual-Mode standard (version 1.0), used in DisplayPort 1.1 devices, only supported TMDS clock speeds of up to 165 MHz (4.95 Gbit/s bandwidth). This is equivalent to HDMI 1.2, and is sufficient for up to 1920 × 1200 at 60 Hz.
+
+In 2013, VESA released the Dual-Mode 1.1 standard, which added support for up to a 300 MHz TMDS clock (9.00 Gbit/s bandwidth), and is used in newer DisplayPort 1.2 devices. This is slightly less than the 340 MHz maximum of HDMI 1.4, and is sufficient for up to 1920 × 1080 at 120 Hz, 2560 × 1440 at 60 Hz, or 3840 × 2160 at 30 Hz. Older adapters, which were only capable of the 165 MHz speed, were retroactively termed "Type 1" adapters, with the new 300 MHz adapters being called "Type 2".
+
+##### Dual-Mode Limitations
+- Limited adapter speed – Although the pinout and digital signal values transmitted by the DP port are identical to a native DVI/HDMI source, the signals are transmitted at DisplayPort's native voltage (3.3 V) instead of the 5 V used by DVI and HDMI. As a result, dual-mode adapters must contain a level-shifter circuit which changes the voltage. The presence of this circuit places a limit on how quickly the adapter can operate, and therefore newer adapters are required for each higher speed added to the standard.
+- Unidirectional – Although the dual-mode standard specifies a method for DisplayPort sources to output DVI/HDMI signals using simple passive adapters, there is no counterpart standard to give DisplayPort displays the ability to receive DVI/HDMI input signals through passive adapters. As a result, DisplayPort displays can only receive native DisplayPort signals; any DVI or HDMI input signals must be converted to the DisplayPort format with an active conversion device. DVI and HDMI sources cannot be connected to DisplayPort displays using passive adapters.
+- Single-link DVI only – Since DisplayPort dual-mode operates by using the pins of the DisplayPort connector to send DVI/HDMI signals, the 20-pin DisplayPort connector can only produce a single-link DVI signal (which uses 19 pins). A dual-link DVI signal uses 25 pins, and is therefore impossible to transmit natively from a DisplayPort connector through a passive adapter. Dual-link DVI signals can only be produced by converting from native DisplayPort output signals with an active conversion device.
+- Unavailable on USB-C – The DisplayPort Alternate Mode specification for sending DisplayPort signals over a USB-C cable does not include support for the dual-mode protocol. As a result, DP-to-DVI and DP-to-HDMI passive adapters do not function when chained from a USB-C to DP adapter.
+
+#### Multi-Stream Transport (MST) 
+Multi-Stream Transport is a feature first introduced in the DisplayPort 1.2 standard. It allows multiple independent displays to be driven from a single DP port on the source devices by multiplexing several video streams into a single stream and sending it to a branch device, which demultiplexes the signal into the original streams. Branch devices are commonly found in the form of an MST hub, which plugs into a single DP input port and provides multiple outputs, but it can also be implemented on a display internally to provide a DP output port for daisy-chaining, effectively embedding a 2-port MST hub inside the display. Theoretically, up to 63 displays can be supported, but the combined data rate requirements of all the displays cannot exceed the limits of a single DP port (17.28 Gbit/s for a DP 1.2 port, or 25.92 Gbit/s for a DP 1.3/1.4 port). In addition, the maximum number of links between the source and any device (i.e. the maximum length of a daisy-chain) is 7, and the maximum number of physical output ports on each branch device (such as a hub) is 7. With the release of MST, standard single-display operation has been retroactively named "SST" mode (Single-Stream Transport).
+
+Daisy-chaining is a feature that must be specifically supported by each intermediary display; not all DisplayPort 1.2 devices support it. Daisy-chaining requires a dedicated DisplayPort output port on the display. Standard DisplayPort input ports found on most displays cannot be used as a daisy-chain output. Only the last display in the daisy-chain does not need to support the feature specifically or have a DP output port. DisplayPort 1.1 displays can also be connected to MST hubs, and can be part of a DisplayPort daisy-chain if it is the last display in the chain.
+
+The host system's software also needs to support MST for hubs or daisy-chains to work. While Microsoft Windows environments have full support for it, Apple operating systems currently do not support MST hubs or DisplayPort daisy-chaining as of macOS 10.15 ("Catalina"). DisplayPort-to-DVI and DisplayPort-to-HDMI adapters/cables may or may not function from an MST output port; support for this currently depends on the specific device.
+
+MST is supported by USB Type-C DisplayPort Alternate Mode, so standard DisplayPort daisy-chains and MST hubs do function from Type-C sources with a simple Type-C to DisplayPort adapter.
+
+#### High dynamic range (HDR)
+Main article: High-dynamic-range television
+Support for HDR video was introduced in DisplayPort 1.4. It implements the CTA 861.3 standard for transport of static HDR metadata in EDID.
+
+#### Content protection 
+DisplayPort 1.0 includes optional DPCP (DisplayPort Content Protection) from Philips, which uses 128-bit AES encryption. It also features full authentication and session key establishment. Each encryption session is independent, and it has an independent revocation system. This portion of the standard is licensed separately. It also adds the ability to verify the proximity of the receiver and transmitter, a technique intended to ensure users are not bypassing the content protection system to send data out to distant, unauthorized users.
+
+DisplayPort 1.1 added optional implementation of industry-standard 56-bit HDCP (High-bandwidth Digital Content Protection) revision 1.3, which requires separate licensing from the Digital Content Protection LLC.
+
+DisplayPort 1.3 added support for HDCP 2.2, which is also used by HDMI 2.0.
+
+### Companion Standards
+#### Mini DisplayPort
+Mini DisplayPort (mDP) is a standard announced by Apple in the fourth quarter of 2008. Shortly after announcing Mini DisplayPort, Apple announced that it would license the connector technology with no fee. The following year, in early 2009, VESA announced that Mini DisplayPort would be included in the upcoming DisplayPort 1.2 specification. On 24 February 2011, Apple and Intel announced Thunderbolt, a successor to Mini DisplayPort which adds support for PCI Express data connections while maintaining backwards compatibility with Mini DisplayPort based peripherals.
+
+#### Micro DisplayPort
+Micro DisplayPort would have targeted systems that need ultra-compact connectors, such as phones, tablets and ultra-portable notebook computers. This standard would have been physically smaller than the currently available Mini DisplayPort connectors. The standard was expected to be released by Q2 2014.
+
+#### DDM
+Direct Drive Monitor (DDM) 1.0 standard was approved in December 2008. It allows for controller-less monitors where the display panel is directly driven by the DisplayPort signal, although the available resolutions and color depth are limited to two-lane operation.
+
+#### Display Stream Compression
+Display Stream Compression (DSC) is a VESA-developed video compression algorithm designed to enable increased display resolutions and frame rates over existing physical interfaces, and make devices smaller and lighter, with longer battery life.
+
+#### eDP
+Embedded DisplayPort (eDP) is a display panel interface standard for portable and embedded devices. It defines the signaling interface between graphics cards and integrated displays. The various revisions of eDP are based on existing DisplayPort standards. However, version numbers between the two standards are not interchangeable. For instance, eDP version 1.4 is based on DisplayPort 1.2, while eDP version 1.4a is based on DisplayPort 1.3. In practice, embedded DisplayPort has displaced LVDS as the predominant panel interface in modern laptops and modern smartphones.
+
+eDP 1.0 was adopted in December 2008. It included advanced power-saving features such as seamless refresh rate switching. Version 1.1 was approved in October 2009 followed by version 1.1a in November 2009. Version 1.2 was approved in May 2010 and includes DisplayPort 1.2 HBR2 data rates, 120 Hz sequential color monitors, and a new display panel control protocol that works through the AUX channel. Version 1.3 was published in February 2011; it includes a new optional Panel Self-Refresh (PSR) feature developed to save system power and further extend battery life in portable PC systems. PSR mode allows the GPU to enter a power saving state in between frame updates by including framebuffer memory in the display panel controller. Version 1.4 was released in February 2013; it reduces power consumption through partial-frame updates in PSR mode, regional backlight control, lower interface voltages, and additional link rates; the auxiliary channel supports multi-touch panel data to accommodate different form factors. Version 1.4a was published in February 2015; the underlying DisplayPort version was updated to 1.3 in order to support HBR3 data rates, Display Stream Compression 1.1, Segmented Panel Displays, and partial updates for Panel Self-Refresh. Version 1.4b was published in October 2015; its protocol refinements and clarifications are intended to enable adoption of eDP 1.4b in devices by mid-2016. Version 1.5 was published in October 2021; adds new features and protocols, including enhanced support for Adaptive-Sync, that provide additional power savings and improved gaming and media playback performance.
+
+#### iDP
+Internal DisplayPort (iDP) 1.0 was approved in April 2010. The iDP standard defines an internal link between a digital TV system on a chip controller and the display panel's timing controller. It aims to replace currently used internal FPD-Link lanes with a DisplayPort connection. iDP features a unique physical interface and protocols, which are not directly compatible with DisplayPort and are not applicable to external connection, however they enable very high resolution and refresh rates while providing simplicity and extensibility. iDP features a non-variable 2.7 GHz clock and is nominally rated at 3.24 Gbit/s per lane, with up to sixteen lanes in a bank, resulting in a six-fold decrease in wiring requirements over FPD-Link for a 1080p24 signal; other data rates are also possible. iDP was built with simplicity in mind so doesn't have an AUX channel, content protection, or multiple streams; it does however have frame sequential and line interleaved stereo 3D.
+
+#### PDMI
+Portable Digital Media Interface (PDMI) is an interconnection between docking stations/display devices and portable media players, which includes 2-lane DisplayPort v1.1a connection. It has been ratified in February 2010 as ANSI/CEA-2017-A.
+
+#### wDP
+Wireless DisplayPort (wDP) enables the bandwidth and feature set of DisplayPort 1.2 for cable-free applications operating in the 60 GHz radio band. It was announced in November 2010 by WiGig Alliance and VESA as a cooperative effort.
+
+#### SlimPort
+SlimPort, a brand of Analogix products, complies with Mobility DisplayPort, also known as MyDP, which is an industry standard for a mobile audio/video Interface, providing connectivity from mobile devices to external displays and HDTVs. SlimPort implements the transmission of video up to 4K-UltraHD and up to eight channels of audio over the micro-USB connector to an external converter accessory or display device. SlimPort products support seamless connectivity to DisplayPort, HDMI and VGA displays. The MyDP standard was released in June 2012, and the first product to use SlimPort was Google's Nexus 4 smartphone. SlimPort is an alternative to Mobile High-Definition Link (MHL).
+
+#### DisplayID
+DisplayID is designed to replace the E-EDID standard. DisplayID features variable-length structures which encompass all existing EDID extensions as well as new extensions for 3D displays and embedded displays.
+
+The latest version 1.3 (announced on 23 September 2013) adds enhanced support for tiled display topologies; it allows better identification of multiple video streams, and reports bezel size and locations. As of December 2013, many current 4K displays use a tiled topology, but lack a standard way to report to the video source which tile is left and which is right. These early 4K displays, for manufacturing reasons, typically use two 1920×2160 panels laminated together and are currently generally treated as multiple-monitor setups. DisplayID 1.3 also allows 8K display discovery, and has applications in stereo 3D, where multiple video streams are used.
+
+#### DockPort
+DockPort, formerly known as Lightning Bolt, is an extension to DisplayPort to include USB 3.0 data as well as power for charging portable devices from attached external displays. Originally developed by AMD and Texas Instruments, it has been announced as a VESA specification in 2014.
+
+#### USB-C
+On 22 September 2014, VESA published the DisplayPort Alternate Mode on USB Type-C Connector Standard, a specification on how to send DisplayPort signals over the newly released USB-C connector. One, two or all four of the differential pairs that USB uses for the SuperSpeed bus can be configured dynamically to be used for DisplayPort lanes. In the first two cases, the connector still can carry a full SuperSpeed signal; in the latter case, at least a non-SuperSpeed signal is available. The DisplayPort AUX channel is also supported over the two sideband signals over the same connection; furthermore, USB Power Delivery according to the newly expanded USB-PD 2.0 specification is possible at the same time. This makes the Type-C connector a strict superset of the use-cases envisioned for DockPort, SlimPort, Mini and Micro DisplayPort.
+
+#### VirtualLink
+VirtualLink is a proposal that allows the power, video, and data required to drive virtual reality headsets to be delivered over a single USB-C cable.
