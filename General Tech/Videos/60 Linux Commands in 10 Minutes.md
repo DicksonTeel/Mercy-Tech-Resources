@@ -1,0 +1,1 @@
+[![60 Linux Commands in 10 Minutes](https://img.youtube.com/vi/gd7BXuUQ91w/0.jpg)](https://www.youtube.com/watch?v=gd7BXuUQ91w)
