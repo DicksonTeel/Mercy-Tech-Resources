@@ -1,0 +1,1 @@
+[![50 MacOS Terminal Commands in 10 Minutes](https://img.youtube.com/vi/qOrlYzqXPa8/0.jpg)](https://www.youtube.com/watch?v=qOrlYzqXPa8)
