@@ -1,3 +1,7 @@
 Link to Blender: [Blender.org](https://www.blender.org)
 
 [Blender Learning Resources](https://www.blender.org/support/)
+
+Blender is a free and open-source 3D computer graphics software tool set used for creating animated films, visual effects, art, 3D-printed models, motion graphics, interactive 3D applications, virtual reality, and, formerly, video games.
+Blender's features include 3D modelling, UV mapping, texturing, digital drawing, raster graphics editing, rigging and skinning, fluid and smoke simulation, particle simulation, soft body simulation, sculpting, animation, match moving,
+rendering, motion graphics, video editing, and compositing.
